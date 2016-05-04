@@ -7,7 +7,7 @@
   <Name>blynk</Name>
   <Changes></Changes>
   <Description>Container for blynk</Description>
-  <Project>http://www.blynk.cc//Project>
+  <Project>http://www.blynk.cc/</Project>
   <Registry>https://hub.docker.com/r/ionstorm66/blynk/</Registry>
   <Repository>ionstorm66/blynk</Repository>
   <BindTime>true</BindTime>
